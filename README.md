@@ -1,1 +1,1 @@
-Java is an object oriented 
+Java is an object oriented language 
